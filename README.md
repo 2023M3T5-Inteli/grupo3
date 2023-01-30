@@ -9,13 +9,13 @@
 ## Nome do grupo
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/luis-miranda-137566139/">Luiz Miranda</a>
+- <a href="https://www.linkedin.com/in/yago-ara%C3%BAjo-do-vale-moreira-461816247/">Yago Araújo</a>
+- <a href="https://www.linkedin.com/in/isabela-amado-da-rocha-0314b4237/">Isabela Rocha</a> 
+- <a href="https://www.linkedin.com/in/marcelo-maia-b90b03231/">Marcelo Maia</a> 
+- <a href="https://www.linkedin.com/in/thomaz-klifson-falc%C3%A3o-barboza-046490125/">Thomaz Klifson</a>
+- <a href="https://www.linkedin.com/in/enya-oliveira-636566240/">Enya Oliveira</a> 
+- <a href="https://www.linkedin.com/in/fabio-piemonte-823a65211/">Fabio Piemonte</a>
 
 ## 📝 Descrição
 
