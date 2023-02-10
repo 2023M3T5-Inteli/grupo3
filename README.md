@@ -9,7 +9,7 @@
 ## HÍGIA
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/luis-miranda-137566139/">Luiz Miranda</a>
+- <a href="https://www.linkedin.com/in/luis-miranda-137566139/">Luis Miranda</a>
 - <a href="https://www.linkedin.com/in/yago-ara%C3%BAjo-do-vale-moreira-461816247/">Yago Araújo</a>
 - <a href="https://www.linkedin.com/in/isabela-amado-da-rocha-0314b4237/">Isabela Rocha</a> 
 - <a href="https://www.linkedin.com/in/marcelo-maia-b90b03231/">Marcelo Maia</a> 
