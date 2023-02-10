@@ -19,7 +19,7 @@
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+O projeto Agatha tem como finalidade ajudar as entidades da área da saúde a agilizar o seu diagnóstico acerca do câncer do mama para a faculdade de medicina da USP. Para isso, é utilizado um modelo preditivo com base em inteligência artifical para prever qual é o melhor tratamento para o paciente em questão.  
 
 ## 📁 Estrutura de pastas
 
