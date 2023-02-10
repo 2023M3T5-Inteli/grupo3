@@ -51,17 +51,17 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
+* 0.1.0 - 10/02/2023
     * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
+* 0.1.1 - 15/01/2022
     * Remove `setDefaultXYZ()`
     * Adiciona `init()`
-* 0.1.1 - 11/01/2022
+* 0.1.2 - 11/01/2022
     * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
+* 0.1.3 - 10/01/2022
     * O primeiro lançamento adequado
     * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 1.0.0 - 01/01/2022
     * Trabalho em andamento
 
 ## 📋 Licença/License
