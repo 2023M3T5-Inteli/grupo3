@@ -60,7 +60,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
     * Adição do modelo de predição 
 * 0.1.3 - 24/03/2023
     * Alteração do modelo de predição para o mais eficiente até o momento
-* 1.0.0 - 01/01/2022
+* 1.0.0 - 06/04/2023
     * Adição da apresentação final e do modelo definitivo
 
 ## 📋 Licença/License
