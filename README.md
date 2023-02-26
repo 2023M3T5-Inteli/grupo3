@@ -30,7 +30,7 @@ O projeto Agatha tem como finalidade ajudar as entidades da área da saúde a ag
   &emsp;| T5_G3_V2.1_Predictive_Model_Document.pdf<br>
   &emsp;| T5_G3_V2.1_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T5_G3_V1_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T5_G3_V2_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -53,16 +53,15 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 * 0.1.0 - 10/02/2023
     * Atualização de documentos (código do módulo permanece inalterado).
-* 0.1.1 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.2 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.3 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 1.0.0 - 01/01/2022
-    * Trabalho em andamento
+* 0.1.1 - 24/02/2023
+    * Adição dos dados tratados e limpados
+    * Adição das três hipóteses sobre o projeto
+* 0.1.2 - 10/03/2023
+    * Adição do modelo de predição 
+* 0.1.3 - 24/03/2023
+    * Alteração do modelo de predição para o mais eficiente até o momento
+* 1.0.0 - 06/04/2023
+    * Adição da apresentação final e do modelo definitivo
 
 ## 📋 Licença/License
 
