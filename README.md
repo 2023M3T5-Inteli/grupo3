@@ -28,8 +28,8 @@ O projeto Agatha tem como finalidade ajudar as entidades da área da saúde a ag
     &emsp; &emsp; | --> analise_do_negocio<br>
     &emsp; &emsp; | --> experiencia_do_usuario<br>
     &emsp; &emsp; | --> politica_de_privacidade<br>
-  &emsp;| T5_G3_V4.4_Predictive_Model_Document.pdf<br>
-  &emsp;| T5_G3_V4.4_Predictive_Model_Document.docx<br>
+  &emsp;| T5_G3_V4.5_Predictive_Model_Document.pdf<br>
+  &emsp;| T5_G3_V4.5_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
   &emsp;|--> T5_G3_V6_2_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
