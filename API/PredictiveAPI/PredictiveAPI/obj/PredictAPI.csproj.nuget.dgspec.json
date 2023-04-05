@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\webApp\\Teste1\\Teste1\\PredictAPI.csproj": {}
+    "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\API\\PredictiveAPI\\PredictiveAPI\\PredictAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\webApp\\Teste1\\Teste1\\PredictAPI.csproj": {
+    "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\API\\PredictiveAPI\\PredictiveAPI\\PredictAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\webApp\\Teste1\\Teste1\\PredictAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\API\\PredictiveAPI\\PredictiveAPI\\PredictAPI.csproj",
         "projectName": "PredictAPI",
-        "projectPath": "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\webApp\\Teste1\\Teste1\\PredictAPI.csproj",
+        "projectPath": "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\API\\PredictiveAPI\\PredictiveAPI\\PredictAPI.csproj",
         "packagesPath": "C:\\Users\\Inteli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\webApp\\Teste1\\Teste1\\obj\\",
+        "outputPath": "C:\\Users\\Inteli\\Documents\\faculdade - semestres\\p2\\M3 - Modelo Preditivo com IA - USPMED\\projeto-HIGIA\\API\\PredictiveAPI\\PredictiveAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "IronPython": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
             "LG.Microsoft.ML.OnnxTransformer": {
               "target": "Package",
               "version": "[1.6.0.4, )"

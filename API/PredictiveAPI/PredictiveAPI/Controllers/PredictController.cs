@@ -2,8 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.ML;
 using Teste1.Models;
-using Microsoft.ML.Transforms.Onnx;
-using System.Xml;
+using System.IO.Compression;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -16,8 +15,11 @@ public class PredictionController : ControllerBase
     public ActionResult Predict([FromBody] InputDataModel input)
     {
         var context = new MLContext();
-        var path = "modeloFINAL.onnx";
-        var model = context.Model.Load("modeloFINAL.zip", out _);
+        var zipPath = "modeloFINAL.zip";
+        var outputPath = "NovaPasta2";
+
+        ZipFile.ExtractToDirectory(zipPath, outputPath);
+        var model = context.Model.Load(outputPath, out _);
 
 
 
